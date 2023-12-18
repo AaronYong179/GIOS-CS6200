@@ -1,3 +1,9 @@
 [submodule "gios_p1"]
 	path = gios_p1
 	url = https://github.com/AaronYong179/gios_p1
+[submodule "gios_p3"]
+	path = gios_p3
+	url = https://github.com/AaronYong179/gios_p3
+[submodule "gios_p4"]
+	path = gios_p4
+	url = https://github.com/AaronYong179/gios_p4
